@@ -1,0 +1,97 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M378.6 256.8l-200.6 210c-12 11.6-18 27.4-18 44.8s6 33 18 44.8l200.6 210.8c23.8 25 62.6 25 86.4 0s23.8-65.4 0-90.4l-96.2-100.8h434c33.8 0 61.2-28.6 61.2-64s-27.4-64-61.2-64h-434l96.4-100.8c23.8-25 23.8-65.4 0-90.4-24-25-62.6-25-86.6 0z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "arrow-left-c"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 4,
+        "id": 590,
+        "name": "arrow-left-c",
+        "prevSize": 32,
+        "code": 59790
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 142
+    },
+    {
+      "icon": {
+        "paths": [
+          "M645.4 256.8l200.6 210c12 11.6 18 27.4 18 44.8s-6 33-18 44.8l-200.6 210.8c-23.8 25-62.6 25-86.4 0s-23.8-65.4 0-90.4l96.4-100.8h-434c-34-0-61.4-28.6-61.4-64s27.4-64 61.2-64h434l-96.4-100.8c-23.8-25-23.8-65.4 0-90.4 24-25 62.6-25 86.6 0z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "arrow-right-c"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 3,
+        "id": 583,
+        "name": "arrow-right-c",
+        "prevSize": 32,
+        "code": 59797
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 149
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": false,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": false,
+    "gridSize": 16,
+    "showLiga": false
+  }
+}
